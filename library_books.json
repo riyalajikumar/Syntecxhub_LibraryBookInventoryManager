@@ -1,0 +1,32 @@
+[
+    {
+        "book_id": "B101",
+        "title": "The House in the Cerulean Sea",
+        "author": " TJ Klune",
+        "issued": false
+    },
+    {
+        "book_id": "B102",
+        "title": "A Man Called Ove ",
+        "author": " Fredrik Backman",
+        "issued": false
+    },
+    {
+        "book_id": "B103",
+        "title": "The Secret Garden",
+        "author": "Frances Hodgson Burnett",
+        "issued": true
+    },
+    {
+        "book_id": "B104",
+        "title": "Red, White & Royal Blue",
+        "author": "Casey McQuiston",
+        "issued": false
+    },
+    {
+        "book_id": "B105",
+        "title": "Anne of Green Gables",
+        "author": "L.M. Montgomery",
+        "issued": false
+    }
+]
